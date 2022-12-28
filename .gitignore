@@ -19,3 +19,12 @@ profile
 *.moved-aside
 DerivedData
 .idea/
+# Android Studio
+android/.gradle/*
+android/gradle/*
+android/gradlew
+android/gradlew.bat
+android/*.iml
+android/local.properties
+android/.settings
+android/.project
